@@ -1,0 +1,46 @@
+body{
+  background: rgb(248, 225, 225);
+}
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: firebrick;
+}
+
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: firebrick;
+}
+
+
+input{
+  width: 30%;
+  background-color: #dcd3ee;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button{
+
+  background-color: #f5faf5; /* set background color */
+  border: none; /* remove border */
+  color: rgb(243, 78, 78); /* set font color */
+  padding: 15px 32px; /* set padding */
+  text-align: center; /* center align text */
+  text-decoration: none; /* remove underline */
+  display: inline-block; /* display as inline block */
+  font-size: 14px; /* set font size */
+  border-radius: 20px; /* add rounded corners */
+  transition-duration: 0.4s; /* add transition effect */
+  cursor: pointer; /* add cursor pointer */
+}
+
+button:hover {
+  background-color: #ecc7de; /* set hover background color */
+}
+
+
+
